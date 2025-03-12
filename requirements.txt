@@ -110,3 +110,4 @@ streamlit
 groq
 pdfplumber 
 sentence-transformers==2.2.2
+distutils
