@@ -1,7 +1,7 @@
 import streamlit as st
 import pdfplumber
 from sentence_transformers import SentenceTransformer, util
-from huggingface_hub import snapshot_download
+#from huggingface_hub import snapshot_download
 from groq import Groq
 import os
 
