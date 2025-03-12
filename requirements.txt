@@ -109,6 +109,6 @@ yarl==1.9.4
 streamlit
 groq
 pdfplumber 
-sentence-transformers==2.2.0
+sentence-transformers
 huggingface_hub
 setuptools
