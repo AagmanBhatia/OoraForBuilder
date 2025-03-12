@@ -111,3 +111,4 @@ groq
 pdfplumber 
 sentence-transformers==2.2.0
 huggingface_hub
+setuptools
