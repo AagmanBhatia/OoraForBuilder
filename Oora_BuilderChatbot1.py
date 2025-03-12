@@ -15,8 +15,8 @@ PDF_FILE_PATH = "Builder Faqs.pdf"
 st.set_page_config(page_title="Oora", layout="wide")
 
 
-st.image("Group 1597882494 - Copy.png",use_column_width=False,width=200)
-st.image("poweredbymrproptek_img.png",use_column_width=False,width=170)
+st.image("Group 1597882494 - Copy.png", use_container_width=True, width=200)
+st.image("poweredbymrproptek_img.png", use_container_width=True, width=170)
 #st.title("Oora")
 st.title("Say hi! to Oora, AI Companion for your queries")
 
